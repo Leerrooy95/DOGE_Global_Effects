@@ -27,7 +27,7 @@ This dataset documents the statistical relationship between USAID funding cuts (
 ## Visual Summary
 
 ### Correlation Heatmap
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](heatmap.png)
 
 The heatmap shows a moderate positive correlation (r=0.42) between USAID cut percentage and uprising intensity across all 20 countries.
 
