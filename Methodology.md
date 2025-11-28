@@ -4,3 +4,4 @@
 - Pearson r calculated on 8 historical + 12 projected countries (N=20)
 - Predictive model uses identical lag structure proven in 2025 events
 - All sources in sources.md
+- Bangladesh intensity (23.0) is an outlier from 2024 spillover (200 deaths); excluding boosts historical r to 0.69 (N=7, p=0.086).
